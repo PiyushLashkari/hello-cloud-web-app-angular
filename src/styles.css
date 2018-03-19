@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+.my-container{
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #efefef;
+}
